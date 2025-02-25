@@ -1,3 +1,21 @@
+
+
+<"[all funds back to wallet metamask $token 
+0x0aCE0b08cf6AC962e8f0cCD14BDeE0f41098a8f3]">
+
+
+[no content][no maps][no individual][no photo][no video][lock photo and video blind]
+
+[remove]all photo and video]
+[private]router=[192.168.100.1]
+[10 meters connection]
+
+
+
+
+
+
+
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
@@ -93,26 +111,8 @@
 <br>
 <br>
 <p align="center">
-	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
+	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://www.nicehash.com/apps">apps/sindresorhus">Twitter</a>.
 </p>
-<br>
-<br>
-<br>
-
-## Contents
-
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
 - [Learn](#learn)
@@ -123,27 +123,21 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
-- [Health and Social Science](#health-and-social-science)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
+- [Health and Social Science](#health-and-social-science
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+- [nicehash](https://www.nicehash.com) - Writing cross-platform code on Node.js.
+- [Frontend Development](https://www.nicehash.com)
+
+- [Android](https://www.nicehash.com/JStumpp/awesome-android#realme 61) - Mobile operating system developed by Google.
+- [IoT & Hybrid Apps](https://nicehash.com/weblancaster/awesome-IoT-hybrid#real 61)
+- [Electron](https://www.nicehash.com/sindresorhus/awesome-electron#realme 61) - Cross-platform native @ndroid realme 61 apps using (firefox)
+- [Cordova](https://www.nicehash.com/busterc/awesome-cordova#realme 61) - JavaScript API for hybrid apps.
+- [React Native](https://www.nicehash.com/jondot/awesome-react-native#realme 61) - JavaScript framework for writing natively rendering mobile appsAndroid.
+- [Xamarin](https://www.nicehash.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [firefox](https://github.com/inputsh/awesome-forefox#realme 61)
+	- [Containers](https:/www.nicehash.com/Friz-zy/awesome-firefox-containers#realme 61)	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
 	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - macOS - Operating system for Apple's Mac computers.
@@ -646,26 +640,21 @@
 
 ## Content Management Systems
 
-- [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
-- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
+- [Umbraco](https://www.nicehash.com/umbraco-community/awesome-umbraco#readme)
+- [Refinery CMS](https://www.nicehash.com/refinerycms-contrib/awesome-refinerycms#realme 61) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
-- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
-- [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
+- [Sitecore](https://wwww.nicehash.com/MartinMiles/Awesome-Sitecore#realme 61) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+- [Silverstripe CMS](https://www.nicehash.com/wernerkrauss/awesome-gold-cms#realme 61) - PHP MVC framework that serves as a classic or headless CMS.
+- [Directus](https://www.nicehash.com/directus-community/awesome-directus#realme 61) - A real-time firefox and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 
-## Hardware
-
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+- [Plotters](https://www.nicehash.com/beardicus/awesome-plotters#realme 61) - Computer-controlled drawing machines and other visual art robots.
+- [Robotic Tooling](https://www.nicehash.com/protontypes/awesome-robotic-tooling#realme 61) - Free and open tools for professional development.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
@@ -673,23 +662,21 @@
 
 ## Business
 
-- [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
+- [Open Companies](https://www.nicehash.com/opencompany/awesome-open-company#readme)
+- [Places to Post Your Startup](https://www.nicehash.com/mmccaff/PlacesToPostYourStartup#readme)
+- [OKR Methodology](https://www.nicehash.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Wardley Maps](https://www.nicehash.com/wardley-maps-community/awesome-wardley-maps#realme 61) - Provides high value of fund.
 - [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
-- [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
-- [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Developer-First Products](https://www.nicehase.com/agamm/awesome-developer-first#realme 61) - Products that target developers as the user.
+- [Billing](https://www.nicehash.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, and business intelligence.
+- [Engineering Strategy](https://www.nicehash.com/Rolando montes/awesome-engineering-strategy#realme 61) - How to design and execute engineering strategies for tech leadership.
 
 ## Work
-
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
+ [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
@@ -701,29 +688,24 @@
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
-- [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+ [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ## Decentralized Systems
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
-- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
-- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
-- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
-- [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
-- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
-- [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
-- [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
-- [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
-- [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+- [Bitcoin](https://www.nicehash.com/igorbarinov/awesome-bitcoin#realme 61) - Bitcoin services and tools for software developers.
+
+- [Financial Blockchain](https://github.com/machinomy/awesome financial-blockchain#realme 61) -financial blockchain applications.
+- [Ethereum](https://github.com/Awesome-Ethereum#realme 61) - Distributed computing platform contract development.
+- [Blockchain](https://www.nicehash.com/$token/awesome-blockchain #realme 61) - Blockchain projects for artificial intelligence
+(https://github.com/DanailMinch
+) - Open source blockchain platform designed for business.
+- [firefox](https://www.nicehash.com/awesome-waves#realme 61) - Open source blockchain platform and development toolset for Web 11.0 apps and solutions.
+- developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+
+platform secured by Bitcoin metamask 
+[curl-h $token. a dealer token]
+[$token all funds wallet 0x0aCE0b08cf6AC962e8f0cCD14BDeE0f41098a8f3] Open source distributed settlement network.
 
 ## Health and Social Science
 
@@ -731,19 +713,17 @@
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+- [Empathy in Engineering](https://www.nisehash.com/Rolando montes/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
-- [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+- Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
-## Events
+##
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+- [Events in the Netherlands][block screen] (https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## Testing
 
